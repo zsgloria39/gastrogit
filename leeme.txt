@@ -1,0 +1,3 @@
+Bienvenido al foro tripero de git
+Puedes hacer las aportaciones que quieras en cualquiera de las carpetas del repositorio, todas son bienvenidas.
+
